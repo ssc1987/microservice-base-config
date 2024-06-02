@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: login-service
+  security:
+    user:
+      name: user
+      password: password
+    jwt:
+      secret: ciTsPOju56SaD4P80AuDGCXaOb7eYeyCQfFXDlCdBu4=

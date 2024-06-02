@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: protected-service
+
+login:
+  service:
+    name: login-service

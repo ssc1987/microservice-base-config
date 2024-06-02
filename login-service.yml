@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: login-service
   security:
     user:
       name: user

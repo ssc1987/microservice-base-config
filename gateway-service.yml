@@ -12,5 +12,6 @@ spring:
           uri: lb://test-service
           predicates:
             - Path=/test/**
+            - Path=/test-service/**
           filters:
             - StripPrefix=1
